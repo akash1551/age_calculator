@@ -15,6 +15,6 @@ Media
 bower_components
 vendor
 node_modules
-
+db.sqlite3
 # ignore mac display settings files
 .DS_Store
