@@ -1,0 +1,20 @@
+
+*~
+*.pyc
+*.html~
+.idea
+*REMOTE*
+*LOCAL*
+*BASE*
+*BACKUP*
+*.orig
+migrations/
+project_db/
+path.txt
+Media
+bower_components
+vendor
+node_modules
+
+# ignore mac display settings files
+.DS_Store
